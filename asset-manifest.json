@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/code-station/static/css/main.792d6765.css",
-    "main.js": "/code-station/static/js/main.3636531f.js",
+    "main.css": "/code-station/static/css/main.a6ba34f7.css",
+    "main.js": "/code-station/static/js/main.5cf460fd.js",
     "static/media/wallpaperflare.com_wallpaper.jpg": "/code-station/static/media/wallpaperflare.com_wallpaper.d3a0f5dcf07b81ff63c4.jpg",
     "index.html": "/code-station/index.html",
-    "main.792d6765.css.map": "/code-station/static/css/main.792d6765.css.map",
-    "main.3636531f.js.map": "/code-station/static/js/main.3636531f.js.map"
+    "main.a6ba34f7.css.map": "/code-station/static/css/main.a6ba34f7.css.map",
+    "main.5cf460fd.js.map": "/code-station/static/js/main.5cf460fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.792d6765.css",
-    "static/js/main.3636531f.js"
+    "static/css/main.a6ba34f7.css",
+    "static/js/main.5cf460fd.js"
   ]
 }
