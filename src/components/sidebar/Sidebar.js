@@ -8,7 +8,6 @@ function Sidebar() {
         <div className="sidebar-section">
             <div className="sidebar-subsection">
                 <span className="sidebar-title">about me</span>
-                {/* <img className="sidebar-img" src="https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" /> */}
                 <img className="sidebar-img" src={pic} alt="this is user image" />
                 <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
             </div>

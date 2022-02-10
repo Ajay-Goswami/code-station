@@ -12,7 +12,7 @@ function TopBar() {
                 <div className="topbar-left">
                     <i className="topbar-social-icon fab fa-instagram"></i>
                     <i className="topbar-social-icon fab fa-facebook"></i>
-                    <i className="topbar-social-icon fab fa-linkedin"></i>
+                    <i className="topbar-social-icon fab fa-linkedin" ></i>
                     <i className="topbar-social-icon fab fa-twitter"></i>
                 </div>
                 <div className="topbar-center">
@@ -30,9 +30,6 @@ function TopBar() {
                     <img className="topbar-profile-pic" src={pic} alt="this is user image" />
                     <i className="topbar-search fas fa-search"></i>
                 </div>
-            </div>
-            <div>
-                <Header />
             </div>
         </div>
     )
