@@ -27,7 +27,7 @@ function TopBar() {
                     </ul>
                 </div>
                 <div className="topbar-right">
-                    <img className="topbar-profile-pic" src={pic} alt="this is car image" />
+                    <img className="topbar-profile-pic" src={pic} alt="this is user image" />
                     <i className="topbar-search fas fa-search"></i>
                 </div>
             </div>
