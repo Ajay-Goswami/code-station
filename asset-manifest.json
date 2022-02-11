@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/code-station/static/css/main.b5b81329.css",
-    "main.js": "/code-station/static/js/main.e03ded26.js",
+    "main.js": "/code-station/static/js/main.44a291dd.js",
     "static/media/octavian-dan-b21Ty33CqVs-unsplash.jpg": "/code-station/static/media/octavian-dan-b21Ty33CqVs-unsplash.0b9bf4b1eef0f83395b2.jpg",
     "static/media/toms-rits-9wMOajylJGU-unsplash.jpg": "/code-station/static/media/toms-rits-9wMOajylJGU-unsplash.c3d90d5bdbb04e40d182.jpg",
     "static/media/wallpaperflare.com_wallpaper.jpg": "/code-station/static/media/wallpaperflare.com_wallpaper.d3a0f5dcf07b81ff63c4.jpg",
     "index.html": "/code-station/index.html",
     "main.b5b81329.css.map": "/code-station/static/css/main.b5b81329.css.map",
-    "main.e03ded26.js.map": "/code-station/static/js/main.e03ded26.js.map"
+    "main.44a291dd.js.map": "/code-station/static/js/main.44a291dd.js.map"
   },
   "entrypoints": [
     "static/css/main.b5b81329.css",
-    "static/js/main.e03ded26.js"
+    "static/js/main.44a291dd.js"
   ]
 }
