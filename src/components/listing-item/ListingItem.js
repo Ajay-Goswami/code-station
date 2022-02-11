@@ -1,13 +1,13 @@
 import React from 'react';
 import './ListingItem.css';
 import { Link } from "react-router-dom";
-import comPic from '../../images/octavian-dan-b21Ty33CqVs-unsplash.jpg';
+import comPicn from '../../images/octavian-dan-b21Ty33CqVs-unsplash.jpg';
 
 function ListingItem() {
     return (
         <div className="listing-item">
             {/* <img className="listing-img" src="https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" /> */}
-            <img className="listing-img" src={comPic} alt="this is component image" />
+            <img className="listing-img" src={comPicn} alt="this is component image" />
             <div className="listing-details">
                 <div className="listing-categories">
                     <span className="listing-category">Read Project</span>

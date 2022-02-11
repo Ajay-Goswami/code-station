@@ -12,7 +12,7 @@ function App() {
       <div >
         <TopBar />
         <Routes>
-          <Route exact path="/" element={<Home />} />
+          <Route exact path="/code-station" element={<Home />} />
           <Route exact path="/detail/:id" element={<Detail />} /> 
           {/* <Route exact path="/create" element={<CreateListing />} />  */}
         </Routes>

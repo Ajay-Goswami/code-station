@@ -18,7 +18,7 @@ function TopBar() {
                 <div className="topbar-center">
                     <ul className="topbar-list">
                         <li className="topbar-list-item">
-                            <NavLink to="/">HOME</NavLink>
+                            <NavLink to="/code-station">HOME</NavLink>
                         </li>
                         <li className="topbar-list-item">ABOUT</li>
                         <li className="topbar-list-item">CONTACT</li>
